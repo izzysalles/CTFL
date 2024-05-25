@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentos de Teste/O que é Teste de Software?.md",
+                "file": "Fundamentos de Teste/Objetivos do Teste.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentos de Teste/O que é Teste de Software?.md",
+                "file": "Fundamentos de Teste/Objetivos do Teste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentos de Teste/O que é Teste de Software?.md",
+                "file": "Fundamentos de Teste/Objetivos do Teste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentos de Teste/O que é Teste de Software?.md"
+                "file": "Fundamentos de Teste/Objetivos do Teste.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "ea5c353189139577",
   "lastOpenFiles": [
+    "Fundamentos de Teste/Por que os teste são importantes?.md",
+    "Fundamentos de Teste/Objetivos do Teste.md",
+    "Fundamentos de Teste/Teste X Depuração.md",
     "Fundamentos de Teste/O que é Teste de Software?.md",
     "Fundamentos de Teste"
   ]
