@@ -27,4 +27,12 @@ Conjunto de atividades para descobrir defeitos e avaliar a qualidade dos artefat
 
 A norma fornece mais informações sobre os **conceitos e termos** de teste de software.
 
+##### Teste X QA
+
+**Controle de qualidade (QC):** abordagem **corretiva**, orientada ao produto. 
+(Indentificar defeito e corrigir)
+
+**Quality Assurance:** abordagem **preventiva**, orientada ao processo. 
+(Entender a causa raiz e tomar uma açao de prevenção para não se repetir)
+
 
