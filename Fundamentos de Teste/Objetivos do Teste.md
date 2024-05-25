@@ -11,4 +11,8 @@
 **Objetivos de teste variam de acordo com contexto que estão inseridos**
 
 
+##### Por que os teste são importantes?
+
+- Ajudam a atingir objetivos acordados dentro do escopo, do **tempo**, da **qualidade** e do **orçamento**;
+
 
