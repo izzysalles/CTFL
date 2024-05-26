@@ -3,9 +3,9 @@ O teste pode desencadear **falhas** causadas por **defeitos** no software ou pod
 
 Quando um teste dinâmico aciona uma **falha**, a depuração (debug) se preocupa em encontrar as causas, analisar essas causas e as elimina-las. 
 
->**Erro:** encontrado no que fizemos, sem executar;
->**Defeito:** encontrado no trabalho de outra pessoa, sem executar;
->**Falha:** encontrado ao executar o programa.
+>**Erro (equívoco, engano):** encontrado no que fizemos, sem executar;
+>**Defeito (falta, bug):** encontrado no trabalho de outra pessoa, sem executar;
+>**Falha (problema):** encontrado ao **executar** o programa.
 
 O usuário encontra apenas falhas.
 
