@@ -35,3 +35,18 @@ Nos modelos de **desenvolvimento sequencial**, nas fases iniciais, os testadores
 
 > Os testes dinâmicos (código executável) não podem ser realizados no início do SDLC.
 
+**Para cada atividade de desenvolvimento de software, há uma atividade de teste correspondente**
+
+> TDD, BDD e ATDD seguem a abordagem shift-left, pois os teses são definidos antes do código
+
+##### TDD
+
+Testes são escritos primeiro e o código é feito para satisfazer os testes.
+
+##### ATDD (Desenvolvimento Orientado por Testes de Aceite)
+
+Foco no comportamento descrito pelo cliente.
+
+##### BDD (Desenvolvimento Orientado pelo Comportamento)
+
+Comportamentos de teste escritos de forma simples: Dado/Quando/Então, após isso os testes são traduzidos em exxecutáveis. 
