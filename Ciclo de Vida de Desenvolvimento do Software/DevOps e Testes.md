@@ -16,3 +16,5 @@
 > **Shift-left:** tenta trazer atividades que poderiam ser feitas no final do projeto para o mais cedo possível, antecipando problemas que apareceriam mais tarde.
 
 ###### **O DevOps não elimina o teste manual, e sim os considera necessários!**
+
+> Requer investimento, porém economiza esforços e custos no final do processo
