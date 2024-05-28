@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciclo de Vida de Desenvolvimento do Software/DevOps e Testes.md",
+                "file": "Ciclo de Vida de Desenvolvimento do Software/Abordagem Shift-Left.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciclo de Vida de Desenvolvimento do Software/DevOps e Testes.md",
+                "file": "Ciclo de Vida de Desenvolvimento do Software/Abordagem Shift-Left.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciclo de Vida de Desenvolvimento do Software/DevOps e Testes.md",
+                "file": "Ciclo de Vida de Desenvolvimento do Software/Abordagem Shift-Left.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo de Vida de Desenvolvimento do Software/DevOps e Testes.md"
+                "file": "Ciclo de Vida de Desenvolvimento do Software/Abordagem Shift-Left.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   "lastOpenFiles": [
     "Ciclo de Vida de Desenvolvimento do Software/Ciclo de Vida de Desenvolvimento de Software.md",
     "Ciclo de Vida de Desenvolvimento do Software/DevOps e Testes.md",
+    "Ciclo de Vida de Desenvolvimento do Software/Abordagem Shift-Left.md",
     "Ciclo de Vida de Desenvolvimento do Software",
     "Fundamentos de Teste/Princípios de Teste.md",
     "Fundamentos de Teste/Atividades de Teste.md",
