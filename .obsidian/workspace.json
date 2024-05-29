@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b490fc29c6520098",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teste Estático/Noções Básicas de Teste Estático.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciclo de Vida de Desenvolvimento do Software/Níveis e Tipos de Teste.md",
+                "file": "Teste Estático/Noções Básicas de Teste Estático.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciclo de Vida de Desenvolvimento do Software/Níveis e Tipos de Teste.md",
+                "file": "Teste Estático/Noções Básicas de Teste Estático.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo de Vida de Desenvolvimento do Software/Níveis e Tipos de Teste.md"
+                "file": "Teste Estático/Noções Básicas de Teste Estático.md"
               }
             }
           }
@@ -146,22 +159,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea5c353189139577",
+  "active": "b490fc29c6520098",
   "lastOpenFiles": [
+    "Teste Estático/Valor do Teste Estático.md",
+    "Teste Estático/Noções Básicas de Teste Estático.md",
+    "Fundamentos de Teste/Teste X Depuração.md",
+    "Fundamentos de Teste/Princípios de Teste.md",
+    "Fundamentos de Teste/Papéis no Teste.md",
+    "Fundamentos de Teste/Objetivos do Teste.md",
+    "Fundamentos de Teste/O que é Teste de Software?.md",
+    "Fundamentos de Teste/Atividades de Teste.md",
+    "Ciclo de Vida de Desenvolvimento do Software/Níveis e Tipos de Teste.md",
+    "Teste Estático",
     "Ciclo de Vida de Desenvolvimento do Software/DevOps e Testes.md",
     "Imagens/Pasted image 20240528150245.png",
     "Imagens",
     "Pasted image 20240528150137.png",
-    "Ciclo de Vida de Desenvolvimento do Software/Níveis e Tipos de Teste.md",
     "Ciclo de Vida de Desenvolvimento do Software/Ciclo de Vida de Desenvolvimento de Software.md",
     "Ciclo de Vida de Desenvolvimento do Software/Abordagem Shift-Left.md",
     "Ciclo de Vida de Desenvolvimento do Software",
-    "Fundamentos de Teste/Princípios de Teste.md",
-    "Fundamentos de Teste/Atividades de Teste.md",
-    "Fundamentos de Teste/Objetivos do Teste.md",
-    "Fundamentos de Teste/Teste X Depuração.md",
-    "Fundamentos de Teste/Papéis no Teste.md",
-    "Fundamentos de Teste/O que é Teste de Software?.md",
     "Fundamentos de Teste/Por que os teste são importantes?.md",
     "Fundamentos de Teste"
   ]
