@@ -30,5 +30,14 @@ Existem muitos tipos de revisão, desde informais até formais. O nível necess�
 
 - **Inspeção:** a **mais formal** das revisões seguem o processo genérico completo. Tem como objetivo principal encontrar o máximo de anomalias. O autor não pode ser moderador e nem relator.
 
+##### Fatores de Sucesso
 
-
+- Ter objetivos claros e critérios de saída;
+- Escolher o tipo de revisão apropriado;
+- Realizar revisões em pequenas partes;
+- Fornecer feedbacks das revisões;
+- Fornecer tempo suficiente para que se preparem para a reunião;
+- Apoio da gerência para o processo de revisão;
+- Tornar as revisões uma parte da cultura da empresa;
+- Fornecer treinamento adequado;
+- Facilitação das reuniões.
