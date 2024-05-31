@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f1d5bf00a29f3cfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Análise e Modelagem de Teste/Teste de Caixa-Preta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análise e Modelagem de Teste/Análise e Modelagem de Teste.md",
+                "file": "Análise e Modelagem de Teste/Teste de Caixa-Preta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análise e Modelagem de Teste/Análise e Modelagem de Teste.md",
+                "file": "Análise e Modelagem de Teste/Teste de Caixa-Preta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análise e Modelagem de Teste/Análise e Modelagem de Teste.md"
+                "file": "Análise e Modelagem de Teste/Teste de Caixa-Preta.md"
               }
             }
           }
@@ -171,11 +183,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ca4c5e8ec6e11db",
+  "active": "f1d5bf00a29f3cfc",
   "lastOpenFiles": [
+    "Imagens/Pasted image 20240530224311.png",
+    "Análise e Modelagem de Teste/Análise e Modelagem de Teste.md",
+    "Análise e Modelagem de Teste/Teste de Caixa-Preta.md",
+    "Imagens/Pasted image 20240530215818.png",
     "Imagens/Pasted image 20240530201641.png",
     "Fundamentos de Teste/O que é Teste de Software.md",
-    "Análise e Modelagem de Teste/Análise e Modelagem de Teste.md",
     "Análise e Modelagem de Teste",
     "Teste Estático/Atividades do Processo de Revisão.md",
     "Teste Estático/Valor do Teste Estático.md",
