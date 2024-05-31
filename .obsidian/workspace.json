@@ -32,31 +32,19 @@
             }
           },
           {
-            "id": "3ca4c5e8ec6e11db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Análise e Modelagem de Teste/Análise e Modelagem de Teste.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f1d5bf00a29f3cfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análise e Modelagem de Teste/Teste de Caixa-Preta.md",
+                "file": "Questões/Questões de EP e BVA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análise e Modelagem de Teste/Teste de Caixa-Preta.md",
+                "file": "Questões/Questões de EP e BVA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análise e Modelagem de Teste/Teste de Caixa-Preta.md",
+                "file": "Questões/Questões de EP e BVA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análise e Modelagem de Teste/Teste de Caixa-Preta.md"
+                "file": "Questões/Questões de EP e BVA.md"
               }
             }
           }
@@ -185,12 +173,17 @@
   },
   "active": "f1d5bf00a29f3cfc",
   "lastOpenFiles": [
-    "Imagens/Pasted image 20240530224311.png",
+    "Questões/Soluções de EP e BVA.md",
+    "Questões/Questões de EP e BVA.md",
+    "Fundamentos de Teste/O que é Teste de Software.md",
     "Análise e Modelagem de Teste/Análise e Modelagem de Teste.md",
     "Análise e Modelagem de Teste/Teste de Caixa-Preta.md",
+    "Questões/VBA",
+    "Questões/EP",
+    "Questões",
+    "Imagens/Pasted image 20240530224311.png",
     "Imagens/Pasted image 20240530215818.png",
     "Imagens/Pasted image 20240530201641.png",
-    "Fundamentos de Teste/O que é Teste de Software.md",
     "Análise e Modelagem de Teste",
     "Teste Estático/Atividades do Processo de Revisão.md",
     "Teste Estático/Valor do Teste Estático.md",
