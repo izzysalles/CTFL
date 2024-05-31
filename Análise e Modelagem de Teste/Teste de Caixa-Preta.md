@@ -18,6 +18,8 @@ As partições não devem se sobrepor de devem ser conjuntos não vazio (leva ma
 
 Muitos objetos de teste incluem **vários conjuntos de partições**. O critério mais simples no caso de vários conjuntos se chama **Each Choice Coverage** (ECC), esse tipo de cobertura **exige que os casos de teste executem cada partição pelo menos uma vez**.
 
+> Usado em regras de negócio
+
 ###### Exemplo
 
 Um sistema de ar condicionado central irá ligar o ar frio quando a temperatura estiver acima de 22C. Ligará o ar quente se abaixo de 16C. E ficará apenas ventilando em outras temperaturas.
