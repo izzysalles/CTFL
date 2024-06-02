@@ -73,3 +73,10 @@ Usada para testar uma implementação de requisitos com diferentes combinações
 
 ![[Pasted image 20240530224311.png]]
 
+##### Teste de Transição de Estado
+
+Muito utilizado quando se tem um diagrama de transição de estado.
+
+> Uma transição é iniciada por um evento que pode ser qualificado adicionalmente por uma condição de proteção.
+
+**Tabela de estados:** suas linhas representam os estados e suas colunas representam eventos.

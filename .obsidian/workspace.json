@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questões/Questões de EP e BVA.md",
+                "file": "Análise e Modelagem de Teste/Teste de Caixa-Preta.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Questões/Questões de EP e BVA.md",
+                "file": "Análise e Modelagem de Teste/Teste de Caixa-Preta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Questões/Questões de EP e BVA.md",
+                "file": "Análise e Modelagem de Teste/Teste de Caixa-Preta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Questões/Questões de EP e BVA.md"
+                "file": "Análise e Modelagem de Teste/Teste de Caixa-Preta.md"
               }
             }
           }
@@ -173,10 +173,12 @@
   },
   "active": "f1d5bf00a29f3cfc",
   "lastOpenFiles": [
-    "Questões/Soluções de EP e BVA.md",
-    "Questões/Questões de EP e BVA.md",
-    "Fundamentos de Teste/O que é Teste de Software.md",
     "Análise e Modelagem de Teste/Análise e Modelagem de Teste.md",
+    "Teste Estático/Valor do Teste Estático.md",
+    "Teste Estático/Atividades do Processo de Revisão.md",
+    "Questões/Questões de EP e BVA.md",
+    "Questões/Soluções de EP e BVA.md",
+    "Fundamentos de Teste/O que é Teste de Software.md",
     "Análise e Modelagem de Teste/Teste de Caixa-Preta.md",
     "Questões/VBA",
     "Questões/EP",
@@ -185,8 +187,6 @@
     "Imagens/Pasted image 20240530215818.png",
     "Imagens/Pasted image 20240530201641.png",
     "Análise e Modelagem de Teste",
-    "Teste Estático/Atividades do Processo de Revisão.md",
-    "Teste Estático/Valor do Teste Estático.md",
     "Teste Estático/Noções Básicas de Teste Estático.md",
     "Fundamentos de Teste/Teste X Depuração.md",
     "Fundamentos de Teste/Princípios de Teste.md",
