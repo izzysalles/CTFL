@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "29466748ff82f63d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Análise e Modelagem de Teste/Teste de Caixa-Branca.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análise e Modelagem de Teste/Teste de Caixa-Preta.md",
+                "file": "Análise e Modelagem de Teste/Teste de Caixa-Branca.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análise e Modelagem de Teste/Teste de Caixa-Preta.md",
+                "file": "Análise e Modelagem de Teste/Teste de Caixa-Branca.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análise e Modelagem de Teste/Teste de Caixa-Preta.md"
+                "file": "Análise e Modelagem de Teste/Teste de Caixa-Branca.md"
               }
             }
           }
@@ -163,23 +175,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir Quick Switcher": false,
+      "graph:Abrir Visualização de diagrama de grafo": false,
+      "daily-notes:Abrir nota de hoje": false,
+      "templates:Inserir templates": false,
+      "command-palette:Abrir paleta de comando": false,
+      "canvas:Create new canvas": false
     }
   },
-  "active": "f1d5bf00a29f3cfc",
+  "active": "29466748ff82f63d",
   "lastOpenFiles": [
-    "Análise e Modelagem de Teste/Análise e Modelagem de Teste.md",
-    "Teste Estático/Valor do Teste Estático.md",
+    "Análise e Modelagem de Teste/Teste de Caixa-Preta.md",
+    "Análise e Modelagem de Teste/Teste de Caixa-Branca.md",
     "Teste Estático/Atividades do Processo de Revisão.md",
+    "Teste Estático/Noções Básicas de Teste Estático.md",
+    "Teste Estático/Valor do Teste Estático.md",
+    "Imagens/Pasted image 20240602205001.png",
+    "Imagens/Pasted image 20240602204234.png",
+    "Análise e Modelagem de Teste/Análise e Modelagem de Teste.md",
     "Questões/Questões de EP e BVA.md",
     "Questões/Soluções de EP e BVA.md",
     "Fundamentos de Teste/O que é Teste de Software.md",
-    "Análise e Modelagem de Teste/Teste de Caixa-Preta.md",
     "Questões/VBA",
     "Questões/EP",
     "Questões",
@@ -187,7 +203,6 @@
     "Imagens/Pasted image 20240530215818.png",
     "Imagens/Pasted image 20240530201641.png",
     "Análise e Modelagem de Teste",
-    "Teste Estático/Noções Básicas de Teste Estático.md",
     "Fundamentos de Teste/Teste X Depuração.md",
     "Fundamentos de Teste/Princípios de Teste.md",
     "Fundamentos de Teste/Papéis no Teste.md",

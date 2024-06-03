@@ -80,3 +80,18 @@ Muito utilizado quando se tem um diagrama de transição de estado.
 > Uma transição é iniciada por um evento que pode ser qualificado adicionalmente por uma condição de proteção.
 
 **Tabela de estados:** suas linhas representam os estados e suas colunas representam eventos.
+
+> **Cobertura de Todos os Estados:** Para atingir **100% de cobertura de todos os estados, os casos de teste devem garantir que todos os estados sejam visitados**. A cobertura é **medida como o número de estados visitados dividido pelo número total de estados e é expressa como porcentagem. 
+
+> **Cobertura de Transições Válidas:** (0-switch) Para garantir 100% de transições válidas, os casos de teste devem executar todas as transições válidas. A cobertura é medida como **número de transições válidas executadas dividido pelo número total de transições válidas e é expressa em porcentagem**.
+
+###### A **cobertura de todos os estados** é **mais fraca** do que a **cobertura de transições válidas**, porque pode ser obtida sem a execução de todas as transições.
+
+![[Pasted image 20240602204234.png]]
+
+**Estados:** 5 (elipses);
+**Transições (0-switch):** 8 (setas) --> 8 testes no máximo 
+
+![[Pasted image 20240602205001.png]]
+
+**Transições Mínimo (0-switch):** 2 (setas) 
