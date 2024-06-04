@@ -38,3 +38,32 @@ A **cobertura é medida** como o número de ramificações exercidas pelos casos
 
 > **Instrução <= Ramificação**
 > **100% de Ramificação = 100% de Instrução** 
+
+
+##### Técnica de Teste Baseada em Experiência
+
+
+###### Suposição de Erro
+
+Técnica usada para prever a ocorrência de erros, defeitos e falhas com base no conhecimento do testador. 
+
+- Como o aplicativo funcionou no passado;
+- Tipos de erros cometidos por dev e os defeitos que surgem disso;
+- Tipos de falha que ocorrem num aplicativo semelhante.
+
+No geral, são erros, defeitos e falhas relacionados a: entrada, saída, lógica, cálculo, interfaces, dados.
+
+###### Testes Exploratórios
+
+Este tipo de teste é usado para aprender mais sobre o objeto de teste e explorá-lo mais profundamente. Isso permite que novos testes para áreas não cobertas sejam criados.
+
+- Pode ser organizado em sessões;
+- O testador usa uma carta teste com os objetivos do teste para orientar o teste.
+
+> Testador experiente, planejamento leve dos pontos chaves testados, duração de +30 a -120 min.
+
+Uma das dificuldades do teste exploratório é reproduzir o que foi feito, para isso gravações facilitam.
+
+- Úteis para quando as especificações são muito amplas ou antigas.
+- 
+
