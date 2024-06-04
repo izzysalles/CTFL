@@ -65,5 +65,11 @@ Este tipo de teste é usado para aprender mais sobre o objeto de teste e explor�
 Uma das dificuldades do teste exploratório é reproduzir o que foi feito, para isso gravações facilitam.
 
 - Úteis para quando as especificações são muito amplas ou antigas.
-- 
+
+###### Teste Baseado em Lista de Verificação
+
+Normalmente implementa e executa testes para cobrir as condições de teste de uma lista de verificação.
+
+- Podem dar suporte a vários tipos de teste, incluindo funcionais e não funcionais;
+- **Algumas entradas podem se tornar menos eficazes com o tempo**, com isso a lista deve ser **atualizada** periodicamente, mas o testador precisa **tomar cuidado para ela não ficar muito extensa**.
 
