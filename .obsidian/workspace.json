@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análise e Modelagem de Teste/Teste de Caixa-Branca.md",
+                "file": "Análise e Modelagem de Teste/Abordagem de Teste Baseada em Colaboração.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análise e Modelagem de Teste/Teste de Caixa-Branca.md",
+                "file": "Análise e Modelagem de Teste/Abordagem de Teste Baseada em Colaboração.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análise e Modelagem de Teste/Teste de Caixa-Branca.md",
+                "file": "Análise e Modelagem de Teste/Abordagem de Teste Baseada em Colaboração.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análise e Modelagem de Teste/Teste de Caixa-Branca.md"
+                "file": "Análise e Modelagem de Teste/Abordagem de Teste Baseada em Colaboração.md"
               }
             }
           }
@@ -173,8 +173,10 @@
   },
   "active": "f1d5bf00a29f3cfc",
   "lastOpenFiles": [
-    "Análise e Modelagem de Teste/Teste de Caixa-Preta.md",
+    "Pasted image 20240604203310.png",
     "Análise e Modelagem de Teste/Teste de Caixa-Branca.md",
+    "Análise e Modelagem de Teste/Abordagem de Teste Baseada em Colaboração.md",
+    "Análise e Modelagem de Teste/Teste de Caixa-Preta.md",
     "Imagens/Pasted image 20240602215222.png",
     "Imagens/Pasted image 20240602214420.png",
     "Imagens/Pasted image 20240602205001.png",
