@@ -42,9 +42,41 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d6644ba21df45830",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
+          },
+          {
+            "id": "69eaf2338e39476e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          },
+          {
+            "id": "106b2f70cd79a399",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gerenciamento das Atividades de Teste/Planejamento de Testes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -110,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análise e Modelagem de Teste/Abordagem de Teste Baseada em Colaboração.md",
+                "file": "Gerenciamento das Atividades de Teste/Planejamento de Testes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análise e Modelagem de Teste/Abordagem de Teste Baseada em Colaboração.md",
+                "file": "Gerenciamento das Atividades de Teste/Planejamento de Testes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análise e Modelagem de Teste/Abordagem de Teste Baseada em Colaboração.md"
+                "file": "Gerenciamento das Atividades de Teste/Planejamento de Testes.md"
               }
             }
           }
@@ -171,8 +203,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1d5bf00a29f3cfc",
+  "active": "106b2f70cd79a399",
   "lastOpenFiles": [
+    "Teste Estático/Atividades do Processo de Revisão.md",
+    "Gerenciamento das Atividades de Teste/Planejamento de Testes.md",
+    "Gerenciamento das Atividades de Teste",
     "Pasted image 20240604203310.png",
     "Análise e Modelagem de Teste/Teste de Caixa-Branca.md",
     "Análise e Modelagem de Teste/Abordagem de Teste Baseada em Colaboração.md",
@@ -183,7 +218,6 @@
     "Imagens/Pasted image 20240602204234.png",
     "Análise e Modelagem de Teste/Análise e Modelagem de Teste.md",
     "Teste Estático/Valor do Teste Estático.md",
-    "Teste Estático/Atividades do Processo de Revisão.md",
     "Questões/Questões de EP e BVA.md",
     "Questões/Soluções de EP e BVA.md",
     "Fundamentos de Teste/O que é Teste de Software.md",
