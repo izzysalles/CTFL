@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gerenciamento das Atividades de Teste/Planejamento de Testes.md",
+                "file": "Gerenciamento das Atividades de Teste/Critérios de Entrada e Saída.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gerenciamento das Atividades de Teste/Planejamento de Testes.md",
+                "file": "Gerenciamento das Atividades de Teste/Critérios de Entrada e Saída.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gerenciamento das Atividades de Teste/Planejamento de Testes.md",
+                "file": "Gerenciamento das Atividades de Teste/Critérios de Entrada e Saída.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gerenciamento das Atividades de Teste/Planejamento de Testes.md"
+                "file": "Gerenciamento das Atividades de Teste/Critérios de Entrada e Saída.md"
               }
             }
           }
@@ -205,8 +205,9 @@
   },
   "active": "106b2f70cd79a399",
   "lastOpenFiles": [
-    "Teste Estático/Atividades do Processo de Revisão.md",
     "Gerenciamento das Atividades de Teste/Planejamento de Testes.md",
+    "Gerenciamento das Atividades de Teste/Critérios de Entrada e Saída.md",
+    "Teste Estático/Atividades do Processo de Revisão.md",
     "Gerenciamento das Atividades de Teste",
     "Pasted image 20240604203310.png",
     "Análise e Modelagem de Teste/Teste de Caixa-Branca.md",
