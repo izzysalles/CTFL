@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciclo de Vida de Desenvolvimento do Software/Níveis e Tipos de Teste.md",
+                "file": "Gerenciamento das Atividades de Teste/Riscos de Projeto X Riscos de Produto.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Riscos de Projeto X Riscos de Produto"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Fundamentos de Teste/O que é Teste de Software.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "O que é Teste de Software"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "Análise e Modelagem de Teste/Abordagem de Teste Baseada em Colaboração.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Abordagem de Teste Baseada em Colaboração"
             }
           },
           {
@@ -50,17 +56,9 @@
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.6.3"
-              }
-            }
-          },
-          {
-            "id": "69eaf2338e39476e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.6.3"
             }
           },
           {
@@ -72,11 +70,40 @@
                 "file": "Gerenciamento das Atividades de Teste/Técnicas de Estimativa.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Técnicas de Estimativa"
+            }
+          },
+          {
+            "id": "ab027715f307b0d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gerenciamento das Atividades de Teste/Gerenciamento de Riscos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gerenciamento de Riscos"
+            }
+          },
+          {
+            "id": "ce5d5b8643a3b888",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gerenciamento das Atividades de Teste/Riscos de Projeto X Riscos de Produto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Riscos de Projeto X Riscos de Produto"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +123,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -111,7 +140,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -119,14 +150,17 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "449d36f2410bf5b0",
@@ -142,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gerenciamento das Atividades de Teste/Técnicas de Estimativa.md",
+                "file": "Gerenciamento das Atividades de Teste/Riscos de Projeto X Riscos de Produto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +184,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Riscos de Projeto X Riscos de Produto"
             }
           },
           {
@@ -159,10 +195,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gerenciamento das Atividades de Teste/Técnicas de Estimativa.md",
+                "file": "Gerenciamento das Atividades de Teste/Riscos de Projeto X Riscos de Produto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Riscos de Projeto X Riscos de Produto"
             }
           },
           {
@@ -173,7 +211,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -182,8 +222,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gerenciamento das Atividades de Teste/Técnicas de Estimativa.md"
-              }
+                "file": "Gerenciamento das Atividades de Teste/Riscos de Projeto X Riscos de Produto.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Riscos de Projeto X Riscos de Produto"
             }
           }
         ]
@@ -203,11 +245,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "106b2f70cd79a399",
+  "active": "ea5c353189139577",
   "lastOpenFiles": [
-    "Gerenciamento das Atividades de Teste/Critérios de Entrada e Saída.md",
+    "Gerenciamento das Atividades de Teste/Priorização de Casos de Teste.md",
+    "Gerenciamento das Atividades de Teste/Pirâmide de Teste.md",
+    "Ciclo de Vida de Desenvolvimento do Software/Níveis e Tipos de Teste.md",
+    "Gerenciamento das Atividades de Teste/Riscos de Projeto X Riscos de Produto.md",
+    "Gerenciamento das Atividades de Teste/Quadrantes de Teste.md",
+    "Gerenciamento das Atividades de Teste/Gerenciamento de Riscos.md",
+    "Imagens/Pasted image 20241021183359.png",
     "Gerenciamento das Atividades de Teste/Técnicas de Estimativa.md",
+    "Imagens/Captura de Tela 2024-10-21 às 18.19.49.png",
+    "Gerenciamento das Atividades de Teste/Critérios de Entrada e Saída.md",
+    "Imagens/Pasted image 20240528150245.png",
     "Gerenciamento das Atividades de Teste/Planejamento de Testes.md",
+    "Teste Estático/Noções Básicas de Teste Estático.md",
+    "Teste Estático/Valor do Teste Estático.md",
     "Teste Estático/Atividades do Processo de Revisão.md",
     "Gerenciamento das Atividades de Teste",
     "Pasted image 20240604203310.png",
@@ -219,7 +272,6 @@
     "Imagens/Pasted image 20240602205001.png",
     "Imagens/Pasted image 20240602204234.png",
     "Análise e Modelagem de Teste/Análise e Modelagem de Teste.md",
-    "Teste Estático/Valor do Teste Estático.md",
     "Questões/Questões de EP e BVA.md",
     "Questões/Soluções de EP e BVA.md",
     "Fundamentos de Teste/O que é Teste de Software.md",
@@ -228,24 +280,17 @@
     "Questões",
     "Imagens/Pasted image 20240530224311.png",
     "Imagens/Pasted image 20240530215818.png",
-    "Imagens/Pasted image 20240530201641.png",
     "Análise e Modelagem de Teste",
-    "Teste Estático/Noções Básicas de Teste Estático.md",
     "Fundamentos de Teste/Teste X Depuração.md",
     "Fundamentos de Teste/Princípios de Teste.md",
     "Fundamentos de Teste/Papéis no Teste.md",
     "Fundamentos de Teste/Objetivos do Teste.md",
     "Fundamentos de Teste/Atividades de Teste.md",
-    "Ciclo de Vida de Desenvolvimento do Software/Níveis e Tipos de Teste.md",
     "Teste Estático",
     "Ciclo de Vida de Desenvolvimento do Software/DevOps e Testes.md",
-    "Imagens/Pasted image 20240528150245.png",
     "Imagens",
-    "Pasted image 20240528150137.png",
     "Ciclo de Vida de Desenvolvimento do Software/Ciclo de Vida de Desenvolvimento de Software.md",
-    "Ciclo de Vida de Desenvolvimento do Software/Abordagem Shift-Left.md",
     "Ciclo de Vida de Desenvolvimento do Software",
-    "Fundamentos de Teste/Por que os teste são importantes?.md",
     "Fundamentos de Teste"
   ]
 }
