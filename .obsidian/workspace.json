@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gerenciamento das Atividades de Teste/Riscos de Projeto X Riscos de Produto.md",
+                "file": "Gerenciamento das Atividades de Teste/Monitoramento, Controle e Conclusão do Teste.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Riscos de Projeto X Riscos de Produto"
+              "title": "Monitoramento, Controle e Conclusão do Teste"
             }
           },
           {
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gerenciamento das Atividades de Teste/Riscos de Projeto X Riscos de Produto.md",
+                "file": "Gerenciamento das Atividades de Teste/Monitoramento, Controle e Conclusão do Teste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Riscos de Projeto X Riscos de Produto"
+              "title": "Backlinks for Monitoramento, Controle e Conclusão do Teste"
             }
           },
           {
@@ -195,12 +195,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gerenciamento das Atividades de Teste/Riscos de Projeto X Riscos de Produto.md",
+                "file": "Gerenciamento das Atividades de Teste/Monitoramento, Controle e Conclusão do Teste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Riscos de Projeto X Riscos de Produto"
+              "title": "Outgoing links from Monitoramento, Controle e Conclusão do Teste"
             }
           },
           {
@@ -222,10 +222,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gerenciamento das Atividades de Teste/Riscos de Projeto X Riscos de Produto.md"
+                "file": "Gerenciamento das Atividades de Teste/Monitoramento, Controle e Conclusão do Teste.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Riscos de Projeto X Riscos de Produto"
+              "title": "Outline of Monitoramento, Controle e Conclusão do Teste"
             }
           }
         ]
@@ -247,10 +247,11 @@
   },
   "active": "ea5c353189139577",
   "lastOpenFiles": [
+    "Gerenciamento das Atividades de Teste/Riscos de Projeto X Riscos de Produto.md",
+    "Gerenciamento das Atividades de Teste/Monitoramento, Controle e Conclusão do Teste.md",
     "Gerenciamento das Atividades de Teste/Priorização de Casos de Teste.md",
     "Gerenciamento das Atividades de Teste/Pirâmide de Teste.md",
     "Ciclo de Vida de Desenvolvimento do Software/Níveis e Tipos de Teste.md",
-    "Gerenciamento das Atividades de Teste/Riscos de Projeto X Riscos de Produto.md",
     "Gerenciamento das Atividades de Teste/Quadrantes de Teste.md",
     "Gerenciamento das Atividades de Teste/Gerenciamento de Riscos.md",
     "Imagens/Pasted image 20241021183359.png",
@@ -289,7 +290,6 @@
     "Teste Estático",
     "Ciclo de Vida de Desenvolvimento do Software/DevOps e Testes.md",
     "Imagens",
-    "Ciclo de Vida de Desenvolvimento do Software/Ciclo de Vida de Desenvolvimento de Software.md",
     "Ciclo de Vida de Desenvolvimento do Software",
     "Fundamentos de Teste"
   ]
